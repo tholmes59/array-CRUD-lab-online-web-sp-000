@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  dogs = ["Rover", "Good boy", "Rex", "Buster"]
 end
 
 def create_an_array
